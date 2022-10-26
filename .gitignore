@@ -64,7 +64,5 @@ target/
 
 # Airflow logs
 logs/*
-logs/dag_id=elastic_dag/run_id=scheduled__2022-10-23T000000+0000/task_id=print_es_info/attempt=1.log
-materials/logs/scheduler/2022-10-23/native_dags/example_dags/example_bash_operator.py.log
 materials/logs/*
 *.log
